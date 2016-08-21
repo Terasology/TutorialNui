@@ -1,0 +1,11 @@
+{
+    "id" : "TutorialNui",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "rzats",
+    "displayName" : "Tutorial NUI",
+    "description" : "A series of tutorials for the NUI interface framework",
+    "dependencies" : [
+        {"id": "Core", "minVersion": "1.0.0"}
+    ],
+    "serverSideOnly" : false
+}
