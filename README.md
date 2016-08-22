@@ -1,4 +1,4 @@
-TutorialWorldGeneration
+TutorialNui
 =======================
 
 A series of tutorials for the NUI interface framework.
