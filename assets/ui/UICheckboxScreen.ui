@@ -1,0 +1,17 @@
+
+{
+  "type": "UICheckboxScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UICheckbox",
+        "layoutInfo": {
+          "position-vertical-center": {},
+          "position-horizontal-center": {}
+        },
+        "enabled":true
+      }
+    ]
+  }
+}
