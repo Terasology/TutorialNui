@@ -1,0 +1,24 @@
+{
+  "type": "UISpaceScreen",
+  "contents": {
+    "type": "columnLayout",
+    "fillVerticalSpace":false,
+    "contents": [
+      {
+        "type": "UILabel",
+        "text": "Above the UISpace"
+      },
+      {
+        "type": "UISpace",
+        "size": [
+          10,
+          10
+        ]
+      },
+      {
+        "type": "UILabel",
+        "text": "Below the UISpace"
+      }
+    ]
+  }
+}

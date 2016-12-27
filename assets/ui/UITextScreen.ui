@@ -1,0 +1,20 @@
+{
+  "type": "UITextScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UIText",
+        "layoutInfo": {
+          "position-horizontal-center": {},
+          "position-vertical-center": {},
+          "height": 100,
+          "width": 70
+        },
+        "text": "Sample UI Text",
+        "multiline": true,
+        "readOnly": false
+      }
+    ]
+  }
+}

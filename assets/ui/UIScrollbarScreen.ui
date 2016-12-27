@@ -1,0 +1,21 @@
+{
+  "type": "UIScrollbarScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UIScrollbar",
+        "layoutInfo": {
+          "position-horizontal-center": {},
+          "position-vertical-center": {},
+          "height":15,
+          "width": 300
+        },
+        "value": 4,
+        "minimum": 2,
+        "range": 20,
+        "vertical": false
+      }
+    ]
+  }
+}
