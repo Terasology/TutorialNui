@@ -1,0 +1,18 @@
+
+{
+  "type": "UIDropdownScrollableScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UIDropdownScrollable",
+        "id":"Dropdown",
+        "layoutInfo": {
+          "position-vertical-center": {},
+          "position-horizontal-center": {},
+          "width":400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+
+{
+  "type": "UIIconBarScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UIIconBar",
+        "layoutInfo": {
+          "position-horizontal-center":{},
+          "position-vertical-center":{},
+          "width":400,
+          "height":400
+        },
+        "halfIconMode":"SPLIT",
+        "maxIcons":13,
+        "spacing":2,
+        "icon":"engine:items#shovel",
+        "value":7
+      }
+    ]
+  }
+}

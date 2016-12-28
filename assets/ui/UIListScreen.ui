@@ -1,0 +1,19 @@
+{
+  "type": "UIListScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UIList",
+        "id": "List",
+        "layoutInfo": {
+          "position-horizontal-center": {},
+          "position-vertical-center": {},
+          "height": 100,
+          "width": 300
+        },
+        "text": "Sample UI Label"
+      }
+    ]
+  }
+}

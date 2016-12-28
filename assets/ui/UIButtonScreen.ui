@@ -1,0 +1,22 @@
+
+{
+  "type": "UIButtonScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UIButton",
+        "layoutInfo": {
+          "width": 300,
+          "height": 300,
+          "position-vertical-center": {},
+          "position-horizontal-center": {}
+        },
+        "image":"engine:flag_en",
+        "text":"UIButton",
+        "clickSound":"engine:FootGrass1",
+        "clickVolume": 2
+      }
+    ]
+  }
+}

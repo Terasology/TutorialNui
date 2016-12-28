@@ -1,0 +1,21 @@
+{
+  "type": "UISliderScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UISlider",
+        "layoutInfo": {
+          "position-horizontal-center": {},
+          "position-vertical-center": {},
+          "height": 200,
+          "width": 300
+        },
+        "value": 5.7,
+        "minimum": 2,
+        "range": 20,
+        "precision": 2
+      }
+    ]
+  }
+}

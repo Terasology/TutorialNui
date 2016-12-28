@@ -1,0 +1,17 @@
+{
+  "type": "UILabelScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UILabel",
+        "layoutInfo": {
+          "position-horizontal-center": {},
+          "position-vertical-center": {},
+          "height": 100
+        },
+        "text": "Sample UI Label"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+
+{
+  "type": "UIDoubleSliderScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UIDoubleSlider",
+        "layoutInfo": {
+          "position-vertical-center": {},
+          "position-horizontal-center": {},
+          "width":400
+        },
+        "minimum":0.5,
+        "range":10,
+        "increment":0.1,
+        "precision":2,
+        "valueLeft":3,
+        "valueRight":4
+      }
+    ]
+  }
+}

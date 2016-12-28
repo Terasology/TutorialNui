@@ -1,0 +1,19 @@
+{
+  "type": "UIImageScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UIImage",
+        "layoutInfo": {
+          "position-horizontal-center": {},
+          "position-vertical-center": {},
+          "width": 200,
+          "height": 200
+        },
+        "image": "engine:flag_en",
+        "tint": "MAGENTA"
+      }
+    ]
+  }
+}
