@@ -13,14 +13,23 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.terasology.tutorialnui;
+package org.terasology.tutorialnui.widgets;
 
 import org.terasology.rendering.nui.CoreScreenLayer;
+import org.terasology.rendering.nui.widgets.UIList;
 
-public class UIScrollingTextScreen extends CoreScreenLayer {
+import java.util.ArrayList;
+import java.util.List;
+
+public class UIListScreen extends CoreScreenLayer {
 
     @Override
     public void initialise() {
-
+        UIList dropdown = find("List", UIList.class);
+        List<String> options = new ArrayList<>();
+        options.add("Option 1");
+        options.add("Option 2");
+        options.add("Option 3");
+        dropdown.setList(options);
     }
 }

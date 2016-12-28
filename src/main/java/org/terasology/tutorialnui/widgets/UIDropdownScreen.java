@@ -13,13 +13,23 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.terasology.tutorialnui;
+package org.terasology.tutorialnui.widgets;
 
 import org.terasology.rendering.nui.CoreScreenLayer;
+import org.terasology.rendering.nui.widgets.UIDropdown;
 
-public class UICheckboxScreen extends CoreScreenLayer {
+import java.util.ArrayList;
+import java.util.List;
+
+public class UIDropdownScreen extends CoreScreenLayer {
+
     @Override
-    public void initialise(){
-
+    public void initialise() {
+        UIDropdown dropdown = find("Dropdown", UIDropdown.class);
+        List<String> options = new ArrayList<>();
+        options.add("Option 1");
+        options.add("Option 2");
+        options.add("Option 3");
+        dropdown.setOptions(options);
     }
 }
