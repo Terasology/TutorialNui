@@ -49,8 +49,57 @@
             ]
           },
           {
-            "type": "UILabel",
-            "text": "UILabel2 inside a UIBox"
+            "type": "UITabBox",
+            "buttons": [
+              {
+                "type": "UIButton",
+                "text": "Tab1"
+              },
+              {
+                "type": "UIButton",
+                "text": "Tab2"
+              },
+              {
+                "type": "UIButton",
+                "text": "Tab3"
+              },
+              {
+                "type": "UIButton",
+                "text": "Tab4"
+              }
+            ],
+            "currentTab": 0,
+            "contents": [
+              {
+                "type": "columnLayout",
+                "contents": [
+                  {
+                    "type": "UILabel",
+                    "text": "Top of the box"
+                  },
+                  {
+                    "type": "UILabel",
+                    "text": "Middle"
+                  },
+                  {
+                    "type": "UILabel",
+                    "text": "Bottom of the Box"
+                  }
+                ]
+              },
+              {
+                "type": "UILabel",
+                "text": "UILabel2 inside a UIBox"
+              },
+              {
+                "type": "UILabel",
+                "text": "UILabel3 inside a UIBox"
+              },
+              {
+                "type": "UILabel",
+                "text": "UILabel4 inside a UIBox"
+              }
+            ]
           },
           {
             "type": "UILabel",
