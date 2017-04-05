@@ -1,0 +1,68 @@
+{
+  "type": "UIRadialScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "UIRadialRing",
+        "layoutInfo": {
+          "width": 600,
+          "height": 600,
+          "position-vertical-center": {},
+          "position-horizontal-center": {}
+        },
+        "sections": [
+          {
+            "type": "UIRadialSection",
+            "text": "One",
+            "icon": "engine:flag_en",
+            "widget": {
+              "type": "UIButton",
+              "text": "UIButton"
+            }
+          },
+          {
+            "type": "UIRadialSection",
+            "text": "Two"
+          },
+          {
+            "type": "UIRadialSection",
+            "text": "Three"
+          },
+          {
+            "type": "UIRadialSection",
+            "text": "Four"
+          },
+          {
+            "type": "UIRadialSection",
+            "text": "Five"
+          },
+          {
+            "type": "UIRadialSection",
+            "text": "Six"
+          },
+          {
+            "type": "UIRadialSection",
+            "text": "Seven"
+          },
+          {
+            "type": "UIRadialSection",
+            "text": "Four"
+          },
+          {
+            "type": "UIRadialSection",
+            "text": "Five"
+          },
+          {
+            "type": "UIRadialSection",
+            "text": "Six"
+          },
+          {
+            "type": "UIRadialSection",
+            "text": "Seven"
+          }
+        ]
+      }
+    ]
+  }
+}
