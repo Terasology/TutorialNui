@@ -1,0 +1,23 @@
+
+{
+  "type": "UIResettableUITextScreen",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
+        "type": "ResettableUIText",
+        "layoutInfo": {
+          "position-vertical-center": {},
+          "position-horizontal-center": {},
+          "width":400
+        },
+        "background-border": {
+            "top": 4,
+            "bottom": 4,
+            "left": 4,
+            "right": 4
+        }
+      }
+    ]
+  }
+}
