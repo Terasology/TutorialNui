@@ -5,7 +5,7 @@
     "displayName" : "NUI Tutorial",
     "description" : "A series of tutorials for the NUI interface framework.",
     "dependencies" : [
-        {"id": "Core", "minVersion": "2.0.0"}
+        {"id": "Core", "minVersion": "3.0.0"}
     ],
     "serverSideOnly" : false
 }
