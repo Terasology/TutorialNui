@@ -1,11 +1,10 @@
 {
-    "id" : "TutorialNui",
-    "version" : "0.2.0",
-    "author" : "rzats",
-    "displayName" : "NUI Tutorial",
-    "description" : "A series of tutorials for the NUI interface framework.",
-    "dependencies" : [
-    ],
-    "serverSideOnly" : false,
+    "id": "TutorialNui",
+    "version": "1.0.0",
+    "author": "rzats",
+    "displayName": "NUI Tutorial",
+    "description": "A series of tutorials for the NUI interface framework.",
+    "dependencies": [],
+    "serverSideOnly": false,
     "isTutorial": true
 }
