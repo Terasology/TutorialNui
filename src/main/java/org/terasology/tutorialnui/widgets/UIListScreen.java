@@ -16,7 +16,7 @@
 package org.terasology.tutorialnui.widgets;
 
 import org.terasology.rendering.nui.CoreScreenLayer;
-import org.terasology.rendering.nui.widgets.UIList;
+import org.terasology.nui.widgets.UIList;
 
 import java.util.ArrayList;
 import java.util.List;
