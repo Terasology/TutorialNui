@@ -15,7 +15,7 @@
  */
 package org.terasology.tutorialnui.widgets;
 
-import org.terasology.rendering.nui.CoreScreenLayer;
+import org.terasology.engine.rendering.nui.CoreScreenLayer;
 
 public class UITabBoxScreen extends CoreScreenLayer {
     @Override
