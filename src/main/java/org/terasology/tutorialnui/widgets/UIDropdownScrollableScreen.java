@@ -12,10 +12,12 @@ public class UIDropdownScrollableScreen extends CoreScreenLayer {
 
     @Override
     public void initialise() {
-        UIDropdownScrollable dropdown = find("Dropdown", UIDropdownScrollable.class);
+        UIDropdownScrollable<String> dropdown = find("Dropdown", UIDropdownScrollable.class);
+
         List<String> options = new ArrayList<>();
-        for (int i = 1; i <= 10; i++)
+        for (int i = 1; i <= 10; i++) {
             options.add("Option " + i);
+        }
         dropdown.setOptions(options);
     }
 }

@@ -6,7 +6,5 @@ import org.terasology.engine.rendering.nui.CoreScreenLayer;
 
 public class UICheckboxScreen extends CoreScreenLayer {
     @Override
-    public void initialise(){
-
-    }
+    public void initialise() { }
 }

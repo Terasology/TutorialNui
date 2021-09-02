@@ -6,7 +6,5 @@ import org.terasology.engine.rendering.nui.CoreScreenLayer;
 
 public class UITabBoxScreen extends CoreScreenLayer {
     @Override
-    public void initialise(){
-
-    }
+    public void initialise() { }
 }
